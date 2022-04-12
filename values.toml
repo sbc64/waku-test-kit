@@ -1,0 +1,12 @@
+[[relays]]
+  [one]
+  pk = ""
+  port = 9998
+
+  [two]
+  pk = ""
+  port = 9999
+
+[store]
+pk = ""
+port = 10000

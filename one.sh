@@ -1,6 +1,7 @@
 source ./common.sh
 
 # --topics=/waku/2/walletconnect-staging/proto \
+docker run statusteam/nim-waku:deploy-v2-prod
 ./result/bin/wakunode \
   --rpc-admin \
   --keep-alive \
